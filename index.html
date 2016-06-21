@@ -34,7 +34,7 @@
 </head>
 <body>
 <div id="box">
-    <p>空格-开火；A-旋转子弹；S-散发子弹；enter-暂停/恢复</p>
+    <p>空格-开火；A-旋转子弹；S-散发子弹；enter-开始/恢复</p>
     <p>只有一条命，死了乖乖F5吧~</p>
     <p>Terry--纯原生JS制作</p>
     <p id="info"></p>
@@ -44,7 +44,7 @@
         //创建一个装飞机的数组，以便未来判断击中和碰撞时遍历
         var planeArr = [];
         var bossArr = [];
-        var paused = false;
+        var paused = true;
         var allow5Mis = true;
         var allowCirMis = true;
         var dirs = ['L', 'LU', 'R', 'RD', 'U', 'RU', 'D', 'LD', 'STOP'];
