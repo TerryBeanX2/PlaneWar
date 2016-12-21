@@ -9,5 +9,5 @@
 
     Thanks！
 
-![img](https://github.com/TerryBeanX2/PlaneWar/edit/master/egImg/a1.png)
-![img](https://github.com/TerryBeanX2/PlaneWar/edit/master/egImg/a2.png)
+![img](https://github.com/TerryBeanX2/PlaneWar/blob/master/egImg/a1.png)
+![img](https://github.com/TerryBeanX2/PlaneWar/blob/master/egImg/a2.png)
