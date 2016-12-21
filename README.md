@@ -9,4 +9,5 @@
 
     Thanks！
 
-    注：游戏中用到的图片来自网络，如有侵权请图片所有者告知，我会很快处理。
+![img](https://github.com/TerryBeanX2/PlaneWar/edit/master/egImg/a1.png)
+![img](https://github.com/TerryBeanX2/PlaneWar/edit/master/egImg/a2.png)
