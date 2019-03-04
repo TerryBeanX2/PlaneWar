@@ -1,6 +1,6 @@
-    感谢您能来观看我的小项目！
-    请点击这里体验！ https://terrybeanx2.github.io/PlaneWar/
-
+感谢您能来观看我的小项目！
+请点击这里体验！ https://terrybeanx2.github.io/PlaneWar/
+   
     这是一个由纯原生JavaScript编写的小游戏，所有游戏元素皆通过DOM表现
 
     我在每一个方法前都加入了详细的注释与我的思路！
